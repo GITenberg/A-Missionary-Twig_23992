@@ -1,0 +1,24 @@
+_repo: A-Missionary-Twig_23992
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23992-h/images/ill-cover-clr.jpg
+creator:
+  author:
+    agent_name: Burnett, Emma L.
+    gutenberg_agent_id: '26170'
+    url: http://www.gutenberg.org/2009/agents/26170
+description: ''
+gutenberg_issued: '2007-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- Fiction'
+- !lcc 'PZ'
+title: A Missionary Twig
+url: http://www.gutenberg.org/ebooks/23992
